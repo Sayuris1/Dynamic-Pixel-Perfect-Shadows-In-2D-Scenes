@@ -1,0 +1,32 @@
+[bootstrap]
+main_collection = /example/example.collectionc
+render = /lights/render/lights.renderc
+
+[script]
+shared_state = 1
+
+[display]
+width = 1136
+height = 640
+high_dpi = 1
+
+[android]
+input_method = HiddenInputField
+
+[project]
+title = Lights
+dependencies = 
+
+[library]
+include_dirs = lights
+
+[physics]
+gravity_y = 0.0
+scale = 0.01
+
+[render]
+clear_color_red = 0.1
+clear_color_green = 0.1
+clear_color_blue = 0.1
+clear_color_alpha = 1.0
+

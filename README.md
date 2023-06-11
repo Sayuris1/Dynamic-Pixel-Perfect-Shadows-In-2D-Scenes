@@ -1,17 +1,3 @@
-# Lights and Shadows
-Example of how to achieve pixel perfect shadows in a 2D view. The sample is based on the following sources:
-
-* 2D Pixel Perfect Shadows LIBGDX example: https://github.com/mattdesl/lwjgl-basics/wiki/2D-Pixel-Perfect-Shadows
-* Adapted to Defold with technical discussion by d954mas: https://forum.defold.com/t/problem-with-shader/3808
-* Final Defold sample project by Sayuris1: https://github.com/Sayuris1/2d_light_defold
-
-
-## Installation
-You can use this solution in your own project by adding this this project as a Defold library dependency. Open your game.project file and in the dependencies field under project add:
-
-https://github.com/defold/sample-lights-and-shadows/archive/master.zip
-
-
 ## Usage
 The main components of this light and shadow casting example are:
 

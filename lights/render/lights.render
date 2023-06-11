@@ -1,9 +1,0 @@
-script: "/lights/render/lights.render_script"
-materials {
-  name: "shadow_map"
-  material: "/lights/render/shadow_map.material"
-}
-materials {
-  name: "model"
-  material: "/builtins/materials/model.material"
-}

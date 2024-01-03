@@ -1,3 +1,6 @@
+# Project Report
+Please read "Dynamic Pixel Perfect Shadows In 2D Scenes.pdf" to learn more about the project.
+
 ## Usage
 The main components of this light and shadow casting example are:
 
